@@ -49,7 +49,8 @@ In the **Forest**, while cycling cards, watch for 2 types of cards:
 <img width="188" height="378" alt="image" src="https://github.com/user-attachments/assets/55e02967-8a7b-49bd-9927-c3ccfd4a03be" />
 <img width="188" height="378" alt="image" src="https://github.com/user-attachments/assets/3f64a3a7-62e4-401d-87f2-04fa9628cae3" />
 <img width="188" height="378" alt="image" src="https://github.com/user-attachments/assets/2d4bcb42-fcb9-4467-8a3a-e7609a336ae9" />
-+
+
+
 <img width="188" height="378" alt="image" src="https://github.com/user-attachments/assets/d727e73a-fcb8-42dc-b31e-075faf4568de" />
 <img width="188" height="378" alt="image" src="https://github.com/user-attachments/assets/49a568fb-34fa-4040-8a32-b155d8754ea5" />
 
@@ -60,7 +61,7 @@ Also in the **Forest**, watch for the following cards:
 <img width="188" height="378" alt="image" src="https://github.com/user-attachments/assets/f5555ef8-80a6-493e-bffa-97e9355d3b6f" />
 <img width="188" height="378" alt="image" src="https://github.com/user-attachments/assets/923f3cb2-8078-4546-8f04-74c210edbb08" />
 <img width="188" height="378" alt="image" src="https://github.com/user-attachments/assets/dcfb1383-4a1d-4162-8e06-53f7519de965" />
-+
+
 <img width="188" height="378" alt="image" src="https://github.com/user-attachments/assets/8f8f731e-fbfc-40cb-b925-a670efb33d93" />
 <img width="188" height="378" alt="image" src="https://github.com/user-attachments/assets/2f6f0938-249e-4145-b70d-67c08966959c" />
 
