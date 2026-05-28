@@ -15,7 +15,7 @@ Wingspan (展翅翱翔) MOD：本地人类玩家**免食物 + 免蛋**打鸟，�
 
 <img width="184" height="378" alt="image" src="https://github.com/user-attachments/assets/5ea86182-0875-4c40-ac4c-1d30e54f65da" />
 <img width="188" height="378" alt="image" src="https://github.com/user-attachments/assets/e729918f-825b-4c9f-a26d-8c9998a73869" />
-<img width="151" height="303" alt="image" src="https://github.com/user-attachments/assets/53d6f08e-d3d6-46d4-9bc6-1a75ba704ed6" />
+<img width="188" height="378" alt="image" src="https://github.com/user-attachments/assets/53d6f08e-d3d6-46d4-9bc6-1a75ba704ed6" />
 <img width="187" height="378" alt="image" src="https://github.com/user-attachments/assets/938652c8-57e2-4dc7-8880-93cfe24ebe74" />
 
 - 大火烈鸟：轮次的末尾的核心刷牌机制，每轮次的末尾可以稳定压4-5张牌，配合灰嘲鸫/小嘲鸫8~10分
