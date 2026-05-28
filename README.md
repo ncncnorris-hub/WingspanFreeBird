@@ -57,7 +57,7 @@ Wingspan (展翅翱翔) MOD：本地人类玩家**免食物 + 免蛋**打鸟，�
 
 - 红额金翅雀/雪鹀等：压牌+换牌
 
-<img width="188" height="378" alt="image" src="https://github.cm/user-attachments/assets/286a33d6-d0c2-4b64-ace0-a1daadc07f78" />
+<img width="188" height="378" alt="image" src="https://github.com/user-attachments/assets/286a33d6-d0c2-4b64-ace0-a1daadc07f78" />
 <img width="188" height="378" alt="image" src="https://github.com/user-attachments/assets/e9460386-9613-4520-b567-ed55fc65b93a" />
 
 - 大杜鹃/呆头伯劳：产蛋/压食物，获取额外分数
