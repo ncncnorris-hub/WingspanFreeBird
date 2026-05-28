@@ -1,0 +1,11 @@
+<Project>
+  <!--
+    Copy this file to: Directory.Build.props.user
+    Then edit <GameDir> to point at YOUR Wingspan install (the folder containing
+    Wingspan.exe and BepInEx\). The .user file is gitignored so your local path
+    will not be committed.
+  -->
+  <PropertyGroup>
+    <GameDir>C:\Program Files (x86)\Steam\steamapps\common\Wingspan</GameDir>
+  </PropertyGroup>
+</Project>
