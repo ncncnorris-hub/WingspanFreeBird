@@ -28,7 +28,7 @@ After testing, I found the most reliable approach is the **Wetland Tuck build** 
 - **Audouin's Gull**: draws cards + reliably tucks 1 per turn. Combined with Gray Catbird / Northern Mockingbird, every turn nets you a stable 5 cards in hand + 2 tucks (3 cards from the full-wetland draw, plus 2 extra from Audouin's Gull).
 - **Gray Catbird / Northern Mockingbird**: pick which bird to copy based on context — when you need to draw cards → copy Audouin's Gull; start of a round → copy Common Chiffchaff / Mute Swan; end of a round → copy Greater Flamingo.
 
-Beyond those 4 core cards: if you only run one of Gray Catbird / Northern Mockingbird, your 5th card can be:
+Beyond those 4 core cards: if you only have one of Gray Catbird / Northern Mockingbird, your 5th card can be:
 
 - **Sandhill Crane / American White Pelican / Double-crested Cormorant / Canada Goose** etc.: spend food to tuck 2 cards (requires another player to consistently feed you the right food — e.g. via Red Crossbill / Anna's Hummingbird / Ruby-throated Hummingbird etc.).
 
