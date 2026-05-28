@@ -31,7 +31,7 @@ Wingspan (展翅翱翔) MOD：本地人类玩家**免食物 + 免蛋**打鸟，�
 <img width="188" height="378" alt="image" src="https://github.com/user-attachments/assets/0167c974-6eed-4c33-a54d-62e5b1cd73c7" />
 <img width="188" height="378" alt="image" src="https://github.com/user-attachments/assets/7381fbb3-9c4a-4de0-9a99-d7d08e9d432f" />
 
-- 丛山雀/拟八哥等：压牌+产蛋（前期过度流程，后期可能蛋会溢出）
+- 丛山雀/拟八哥等：压牌+产蛋（前期过度流畅，后期可能蛋会溢出）
   
 <img width="188" height="378" alt="image" src="https://github.com/user-attachments/assets/621ea7fb-23af-4cd3-afa0-b63495a9fb5f" />
 <img width="188" height="378" alt="image" src="https://github.com/user-attachments/assets/92decc88-9224-4e0e-bc04-bad88e45c158" />
