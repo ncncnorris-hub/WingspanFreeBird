@@ -1,5 +1,7 @@
 # WingspanFreeBird
 
+> [English / 英文版 →](README.en.md)
+
 Wingspan (展翅翱翔) MOD：本地人类玩家**免食物 + 免蛋**打鸟，并可通过配置文件**指定第 1 位玩家的起手牌**。
 >注意：这是一个严重影响平衡的MOD！慎用，风险自担
 
