@@ -43,6 +43,7 @@ Wingspan (展翅翱翔) MOD：本地人类玩家**免食物 + 免蛋**打鸟，�
 <img width="188" height="378" alt="image" src="https://github.com/user-attachments/assets/55e02967-8a7b-49bd-9927-c3ccfd4a03be" />
 <img width="188" height="378" alt="image" src="https://github.com/user-attachments/assets/3f64a3a7-62e4-401d-87f2-04fa9628cae3" />
 <img width="188" height="378" alt="image" src="https://github.com/user-attachments/assets/2d4bcb42-fcb9-4467-8a3a-e7609a336ae9" />
++
 <img width="188" height="378" alt="image" src="https://github.com/user-attachments/assets/d727e73a-fcb8-42dc-b31e-075faf4568de" />
 <img width="188" height="378" alt="image" src="https://github.com/user-attachments/assets/49a568fb-34fa-4040-8a32-b155d8754ea5" />
 
